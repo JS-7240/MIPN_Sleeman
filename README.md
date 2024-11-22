@@ -3,6 +3,7 @@ This GitHub repository contains the completed exercises for the "Medical Image P
 Navigation" seminar. It is structured as follows:
 - DICOM
 - Git
+- MABS
 - Python
 	- Python_Exercise_1.ipynb: Python Basics 1
 	- Python_Exercise_2.ipynb: Python Basics 2
