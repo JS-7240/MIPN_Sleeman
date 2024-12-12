@@ -4,6 +4,7 @@ Navigation" seminar. It is structured as follows:
 - DICOM
 - Git
 - MABS
+- Navigation
 - Path_Planning
 - Python
 	- Python_Exercise_1.ipynb: Python Basics 1
