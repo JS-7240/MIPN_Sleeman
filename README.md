@@ -4,6 +4,7 @@ Navigation" seminar. It is structured as follows:
 - DICOM
 - Git
 - MABS
+- Medical_Image_Features
 - Navigation
 - Path_Planning
 - Python
