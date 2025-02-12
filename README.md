@@ -1,6 +1,7 @@
 # MIPN_Sleeman
 This GitHub repository contains the completed exercises for the "Medical Image Processing for Guidance and 
 Navigation" seminar. It is structured as follows:
+- Deep Learning
 - DICOM
 - Git
 - MABS
